@@ -1,0 +1,23 @@
+.ekar__navbar{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ekar__navbar .brand{
+    font-weight:600;
+    font-family: sans-serif;
+}
+.navbar__content{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.navbar__content a{
+    color:white;
+    text-align: center;
+    text-decoration: none;
+}
